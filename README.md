@@ -44,5 +44,6 @@ BurgerApp is a web application that allows users to customize and order burgers 
    ```cd client
     npm install
     npm start
+  ```
 
 
