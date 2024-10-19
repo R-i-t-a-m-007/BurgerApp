@@ -35,11 +35,11 @@ BurgerApp is a web application that allows users to customize and order burgers 
    git clone <theurl>
    cd burgerapp
 2.Start Backend:
-    cd server
+     ``` cd client
     npm install
     npm start
 3.Start Frontend:
-    cd client
+   ``` cd client
     npm install
     npm start
 
